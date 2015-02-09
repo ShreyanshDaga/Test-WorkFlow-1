@@ -40,3 +40,5 @@ Phase 3
 Source Code for Phase 3
 Planning a feature 3 and 4
 Tuning the plan
+
+Adjusting the HotFix for Feature 1 in current source code
