@@ -15,6 +15,12 @@ Ready for Release 1.0
 
 Phase 2
 
+  Feature 1 started
+  Code for Feature 1
+  Feature 1 Tested
+
   Feature 2 started
   Code for Feature 2
   Feature 2 tested
+
+
