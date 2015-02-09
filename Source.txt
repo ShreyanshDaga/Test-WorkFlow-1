@@ -8,3 +8,5 @@ Ready for Release
 
 BugFix 1 for Release
 BugFix 2 for Release
+
+BugFixes tested
