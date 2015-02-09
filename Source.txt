@@ -23,3 +23,5 @@ Phase 2
   Code for Feature 2
   Feature 2 tested
 
+Integrated Testing for Feature 2
+
