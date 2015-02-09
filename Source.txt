@@ -27,3 +27,4 @@ Integrated Testing for Feature 2
 
 Getting Ready for Release
 
+BugFix1 for Release
